@@ -1,0 +1,50 @@
+[
+  {
+    "description": "genMachine",
+    "id": 1,
+    "ip": "192.168.1.63",
+    "mac": "00:16:96:EC:A3:16",
+    "name": "Dev Server",
+    "status": false
+  },
+  {
+    "description": "8700K",
+    "id": 2,
+    "ip": "192.168.1.128",
+    "mac": "30:9C:23:A6:86:64",
+    "name": "Desktop",
+    "status": false
+  },
+  {
+    "description": "ARM Linux Server",
+    "id": 3,
+    "ip": "192.168.1.40",
+    "mac": "00:1e:06:30:1c:9a",
+    "name": "ODROID-XU4",
+    "status": false
+  },
+  {
+    "description": "No-Ip",
+    "id": 4,
+    "ip": "wbyyo.zapto.org",
+    "mac": "10:1e:06:30:1c:9a",
+    "name": "Calatayud",
+    "status": false
+  },
+  {
+    "description": "No-Ip",
+    "id": 5,
+    "ip": "elmodo7.zapto.org",
+    "mac": "10:1e:06:30:1c:9a",
+    "name": "Zaragoza",
+    "status": false
+  },
+  {
+    "description": "Tuya Wi-Fi",
+    "id": 6,
+    "ip": "192.168.1.33",
+    "mac": "F4:CF:A2:28:93:11",
+    "name": "Light Bulb",
+    "status": false
+  }
+]
